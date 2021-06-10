@@ -1,1 +1,1 @@
-reinforcement learning for stck trading using stable baselines3
+stock trading with reinforcement learning using stable baselines3
